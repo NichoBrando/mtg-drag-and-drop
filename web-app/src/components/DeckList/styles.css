@@ -1,0 +1,14 @@
+.deck-area {
+    margin: 3%;
+    transition: 0.5s width;
+    padding: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    height: 500px;
+}
+
+.deck-card {
+    height: 252px;
+    width: 150px;
+}
